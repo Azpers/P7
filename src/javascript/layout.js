@@ -147,7 +147,6 @@
                     time: '1 day ago'
                 }
             ]
-            //id="no-border"
             function recMemCards(num) {
                 let times = ``;
                 for ( let i = 0; i < num; i++ ) {
@@ -175,7 +174,7 @@
 //Message User interactivity
     //searchBar
     const searchBar = document.querySelector('#searchUser');
-    
+
 
 //CALLING ALL LAYOUT FUNCS
 
